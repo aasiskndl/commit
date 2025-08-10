@@ -1,1 +1,1 @@
-# commit is this repo name
+# Here it is like a daily memo what i have learnt 
