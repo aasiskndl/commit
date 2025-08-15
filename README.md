@@ -7,4 +7,3 @@ There are alot of things left to reasearch in the field of AI, but before making
 
 
 
-kjhv
