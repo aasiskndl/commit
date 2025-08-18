@@ -16,7 +16,7 @@ Some of the big companies like OpenAI, Tesla are able to make a humanoid robot t
 
 
 
-
+hhtrhtr
 
 
 
