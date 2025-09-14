@@ -1,0 +1,13 @@
+there is a term known as bias variance trade off, the bias refers to how far off the model's avg predictions are from the true values, where high bias leads to underfitting where the model fails to capture the underlying patterns in the data, resulting in high errors on both training and test data. Variance is the model's prediction for a given input across different training datasets, high variance leads to overfitting of the training data and low variance leads to underfitting so we must chose variance carefully.
+
+when a model becomes more complex, the bias generally decreases (fitting the data better) while variance increases becoming more sensitive to training data noise.
+
+
+while training a polynomial regression model:
+on a degree 1: then the bias is high hence the model cant capture the underlying hidden patterns 
+on a degree 15: the variance is high hence the model overfits in the training dataset
+hence according to my view, these both can cause problem while during the training of the model
+
+if a model gets 95% accuracy on the training set, but only 70% on the test set then it means that the model has memorized the training data and its performance has decreased due  other factors like lack of data generalization, bias/variance issues, etc. So the model cant perform like it used to do in the training process hence it is call overfitting 
+
+
