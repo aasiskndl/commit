@@ -1,4 +1,5 @@
  # Here it is like a daily memo what i have learnt  
+ 
  ## Aug 10, 2025
  There are alot of rumors going on about AGI(Artificial General Intelligence) where a robot has a profound sense of knowledge like a human being. It can reason think and do the tasks efficiently resembling the astronomical human capabilities. But the thing is that we tend to underlook the scenario, how llm has a greater domain of knowledge than that of a singular human being, it can act like a therapist, a doctor, a competitive coder and what not. So, having an AGI will benefit us? Or will it be our greatest enemy is certainly the question to ask, what is an AGI goes out of control and behaves like a Chhiti the robot on a movie character played by Rajni Kant. In my opinion, its not the fear to be replaced by AI in some job, but its the fear that are we making something irreversal that will cause vast impact in human and industrial civilization like back in the days. We need to be prepared and know the uncertainties of these industries because they can throw anything at us at anytime.
   
